@@ -1,0 +1,1 @@
+日本,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
