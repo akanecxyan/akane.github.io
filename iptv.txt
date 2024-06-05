@@ -9,38 +9,9 @@ NTV News24日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 BS日本映畫専門Ch,https://z88.ubtvfans.com/live/rx3/2219/fc38a527b1486a7ad7ffda08fa9eb401/index.m3u8
 NHK World Premium 日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS-TBS,https://ktpremium.com:443/M919HR/5577/227366?c=日本
-BS-TBS,https://ktpremium.com:443/M919HR/5577/895607?c=日本
-NHK BS1,https://ktpremium.com:443/M919HR/5577/895603?c=日本
-BS Fuji,https://ktpremium.com:443/M919HR/5577/895609?c=日本
-NHK BSP,https://ktpremium.com:443/M919HR/5577/895604?c=日本
-BS Asahi,https://ktpremium.com:443/M919HR/5577/895606?c=日本
-CGN日本,http://66.165.240.154:8080/live/2sfrb1/hls.m3u8
-CGN日本,http://154.yfvodcdn.com:8080/live/2sfrb1/hls.m3u8
-NHK World,https://ktpremium.com:443/M919HR/5577/227363?c=日本
-NHK,https://ktpremium.com:443/M919HR/5577/23211?c=日本
-TOKYO MX1,https://ktpremium.com:443/M919HR/5577/15416?c=日本
-BS TV Tokyo,https://ktpremium.com:443/M919HR/5577/895608?c=日本
-靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-钓鱼日本,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-纬来日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
-纬来日本,http://120.79.160.134:8066/TW/wlrb/hls.m3u8
-BS Nippon TV,https://ktpremium.com:443/M919HR/5577/895605?c=日本
-Golf Network,https://ktpremium.com:443/M919HR/5577/895610?c=日本
-Fuji TV 日本,http://203.162.235.41:15094/
-TBS News 日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-NHK 华语视界,https://ktpremium.com:443/M919HR/5577/15410?c=日本
-ANIPLUS 日本动漫,http://210.210.155.37/session/0b9dc5ac-a763-11ec-ad32-b82a72d63267/dr9445/h/h02/01.m3u8
-NHK日本广播协会,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
-ウェザーニュース,https://ktpremium.com:443/M919HR/5577/15418?c=日本
-日本职业摔跤(NJPW),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-日本職業摔跤(NJPW),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-传奇与蝴蝶(上) 日本,https://cdn54.pzvcdn.com/upload/20230524/eb2205f1abcec00a7e9d487fa12c2575/eb2205f1abcec00a7e9d487fa12c2575.m3u8
-传奇与蝴蝶(下) 日本,https://cdn55.pzvcdn.com/upload/20230524/654393584b23e892dcefa5a020782944/654393584b23e892dcefa5a020782944.m3u8
-ウェザーニュースLiVE,https://ktpremium.com:443/M919HR/5577/15419?c=日本
-日本·NHK国际频道(高清),https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 
-											
 										
 								
