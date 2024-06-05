@@ -12,6 +12,7 @@ NHK World Premium 日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
+日本,http://zqjy.info/tv/NjU3NTg4?channel=%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5%20%20(720p%20cloudrsst136)
 
 										
 								
