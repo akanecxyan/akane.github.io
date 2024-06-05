@@ -12,7 +12,20 @@ NHK World Premium 日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
-日本,http://zqjy.info/tv/NjU3NTg4?channel=%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5%20%20(720p%20cloudrsst136)
-
-										
+テレビ朝日，https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS朝日，https://z88.ubtvfans.com/live/rx3/241/d820512735922c3fc0f0f9e8ea484df5/index.m3u8
+東京-新宿，https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+テレビ東京，https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ東京，https://z88.ubtvfans.com/live/rx3/2202/2e9aecf47da32e12f83ba3d43c1b5dff/index.m3u8
+NHK総合 東京，https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレビ東京，https://z88.ubtvfans.com/live/rx3/243/07ca060bad1c7197140e56d8961aa88b/index.m3u8
+靖天电影台，http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
+靖天国际台-1，https://epg.pw/stream/8995047741c5271541483231d4a9b9d0b227cbba644b77123b93dbc05f1d3484.m3u8
+靖天電影，https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+靖天映画，http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv055
+靖天綜合，https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+靖天映畫，https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
+靖天資訊，https://z88.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
+靖天日本，https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+靖天國際，https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 								
