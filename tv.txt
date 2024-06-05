@@ -1,0 +1,58 @@
+日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NTV News24日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+BS日本映畫専門Ch,https://z88.ubtvfans.com/live/rx3/2219/fc38a527b1486a7ad7ffda08fa9eb401/index.m3u8
+NHK World Premium 日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
+テレビ朝日，https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS朝日，https://z88.ubtvfans.com/live/rx3/241/d820512735922c3fc0f0f9e8ea484df5/index.m3u8
+東京-新宿，https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+テレビ東京，https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ東京，https://z88.ubtvfans.com/live/rx3/2202/2e9aecf47da32e12f83ba3d43c1b5dff/index.m3u8
+NHK総合 東京，https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレビ東京，https://z88.ubtvfans.com/live/rx3/243/07ca060bad1c7197140e56d8961aa88b/index.m3u8
+靖天电影台，http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
+靖天国际台-1，https://epg.pw/stream/8995047741c5271541483231d4a9b9d0b227cbba644b77123b93dbc05f1d3484.m3u8
+靖天電影，https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+靖天映画，http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv055
+靖天綜合，https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+靖天映畫，https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
+靖天資訊，https://z88.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
+靖天日本，https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+靖天國際，https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
+AnimeTV,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+Boomerang,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+BTV COMEDY,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+ANIMAL PLANET,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+Animax ,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+Anime TV (360p),https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+Peace TV,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+axn台灣,https://epg.pw/stream/c559d1a8812da9564657e62bf1f132f2a5261c7372fcc995ed870ec6b96eac8d.m3u8
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+三立台湾.,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
+中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29
+寰宇新闻台湾,http://william8073.eu.org:9000/live.m3u8?c=26
+民視台灣台,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv066
+台视,https://epg.pw/stream/d683ec1b74bb3cac71e6c52bd56e9e0bc2ce256500de142e9ad3f8c63c680cea.m3u8
+韩国美女,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
+韩国女团,https://vd3.bdstatic.com/mda-mknba5i60je0d2dn/sc/cae_h264/1637654844357830568/mda-mknba5i60je0d2dn.mp4
+韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
+韩国EBS少儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+
+
+
+
+
+
+
